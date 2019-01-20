@@ -1,0 +1,56 @@
+******************************* ThE_iNviNciblE **************************
+
+Das ist die Neuste Version vom Netzwerk chat 2.56 Beta(*g*)
+Diesmal sollte es klappen, bei den leuten bei dennen es nicht lief.
+Keine Angst das Programm trägt sich nicht selber irgendwo ein (start oder so)
+
+Länge des Quellcodes ca. 2200 Zeilen
+
+So also das Programm funzt wie im Netzwerk , als auch im Internet , Der Server geht auf allen Windows Systemen an.
+Der Client allerdings nur bei allen win9x....
+- Habe Das Programm weiter verbessert
+- Es sieht besser aus (ein wenig)
+- Es läuft stabiler hat endlich vernüftige Fehlermeldungen
+- Ein paar Fehler sind behoben
+- Known Bugs:
+  Wenn man ein Bildschrimschoner Passwort haben will und der ander hat keins eingestellt   gibt es eine Fehlermeldung.
+- Funtionen des Programms:
+ - Bildschirmschoner Passwort anzeigen / ändern
+ - Monitor an / aus
+ - Startbutton an / aus
+ - Taskbar an / aus
+ - Desktop an /a aus
+ - Num lock , Caps lock , scroll lock lampen steuern
+ - Titel leiste des Explorers ändern
+ - Windows Password ändern
+ - CD ROM auf / zu 
+ - Browser Startseite ändern
+ - Neustarten , Herunterfahren, Logoff
+ - Format A: 
+ - Drucken
+ - Browser öffnen
+ - Maus bewegen an /aus
+ - Internet Verbindung trennen
+ - Client (server) mit windows starten
+ - Trojaner anzeigen / verstecken (Grundeinstellung wird angezeigt , damit man chatten kann)
+ - Alle Fenster minimiern
+ - Alle Fenster schließen die aktiv sind
+ - Alle Objekte unter der Maus öffnen
+ - BEEP (IO.dll wird benötigt)
+ - Sendkeys (100000 Notpades werden geöffnet)
+ - Funny Beenden 
+ - keyboard spinnt
+ - Chatten (mit dem Client)
+ - Auf dem Desktop malen (endlos)
+ - Doppelklick unmöglich
+ - Secure / insecure (Regi spielchen)
+ - Zerstören (ne scheiß sache)
+ - usw............
+
+Arbeite gerade an:
+ - Bilder machen
+ - sehen was der andere so treibt
+ - Tastertur an / aus
+ - Maus an / aus
+
+MfG thE_iNviNciblE

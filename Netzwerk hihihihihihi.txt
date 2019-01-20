@@ -1,0 +1,9 @@
+HKLM\Software\Microsoft\Windows\CurrentVersion\Network\LanMan\
+Flags = 191
+Path = C:\
+Remark = DIE BEMERKUNG
+Type = 0
+
+HKLM\System\CurrentControlSet\Services\VxD\Netsup\
+
+Schlüssel = Workgroup = WERT ????
